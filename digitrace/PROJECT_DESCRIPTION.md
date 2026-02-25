@@ -283,5 +283,5 @@ This project demonstrates proficiency in:
 
 **Project Version**: 1.0.0  
 **License**: Proprietary  
-**Developed By**: Venkat  
+**Developed By**:  
 **Last Updated**: January 2026
